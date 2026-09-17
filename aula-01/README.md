@@ -6,7 +6,7 @@
 
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
 
-<u>**Bem-vindo à primeira aula do curso de lógica de programação com Python! Nesta aula, você vai entender o conceito de algoritmo, descobrir por que Python é uma excelente linguagem para começar e escrever seu primeiro programa usando a função `print()`.**</u>
+**Bem-vindo à primeira aula do curso de lógica de programação com Python! Nesta aula, você vai entender o conceito de algoritmo, descobrir por que Python é uma excelente linguagem para começar e escrever seu primeiro programa usando a função `print()`**
 
 ## 📚 Objetivos da aula
 
@@ -92,9 +92,9 @@ Esses exercícios ajudam a desenvolver a confiança inicial com a escrita de có
 
 ## ✅ Pré-requisitos
 
-- vontade de aprender;
-- acesso ao navegador;
-- conta Google para usar o Colab (opcional);
+- Vontade de aprender;
+- Acesso ao navegador;
+- Conta Google para usar o Colab (opcional);
 - Python instalado para usar localmente (opcional).
 
 ## 🤝 Dicas para o estudo
