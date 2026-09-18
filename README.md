@@ -28,52 +28,52 @@ Este repositório reúne notebooks, exercícios e conteúdos teóricos organizad
 ## 📚 Aulas
 
 ### Aula 01: O que é Programação e Seu Primeiro Código
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/main/aula-01/aula-01.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-01/aula-01.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2001-FF0000?logo=youtube&logoColor=white" alt="Aula 01" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
 
 ### Aula 02: Guardando Informações com Variáveis
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/main/aula-02/aula-02.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-02/aula-02.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2002-FF0000?logo=youtube&logoColor=white" alt="Aula 02" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
 
 ### Aula 03: Interagindo com o Usuário e Fechando Contas
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/main/aula-03/aula-03.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-03/aula-03.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2003-FF0000?logo=youtube&logoColor=white" alt="Aula 03" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
 
 ### Aula 04: Tomando Decisões I (A Estrutura if/else)
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/main/aula-04/aula-04.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-04/aula-04.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2004-FF0000?logo=youtube&logoColor=white" alt="Aula 04" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
 
 ### Aula 05: Tomando Decisões II (Condicionais Múltiplas)
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/main/aula-05/aula-05.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-05/aula-05.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2005-FF0000?logo=youtube&logoColor=white" alt="Aula 05" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
 
 ### Aula 06: Automatizando Tarefas com Loops (while)
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/main/aula-06/aula-06.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-06/aula-06.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2006-FF0000?logo=youtube&logoColor=white" alt="Aula 06" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
 
 ### Aula 07: Repetições com Limites Definidos (for)
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/main/aula-07/aula-07.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-07/aula-07.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2007-FF0000?logo=youtube&logoColor=white" alt="Aula 07" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
 
 ### Aula 08: Guardando Listas de Coisas
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/main/aula-08/aula-08.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-08/aula-08.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2008-FF0000?logo=youtube&logoColor=white" alt="Aula 08" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
 
 ### Aula 09: Reutilizando Código com Funções
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/main/aula-09/aula-09.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-09/aula-09.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2009-FF0000?logo=youtube&logoColor=white" alt="Aula 09" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
 
 ### Aula 10: Projeto Final (Juntando Tudo)
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/main/aula-10/aula-10.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-10/aula-10.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2010-FF0000?logo=youtube&logoColor=white" alt="Aula 10" /></a><br>
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
 

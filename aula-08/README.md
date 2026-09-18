@@ -1,36 +1,36 @@
-# Aula 03 - Interagindo com o Usuário e Fechando Contas
+# Aula 08 - Guardando Listas de Coisas
 
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-03/aula-03.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-08/aula-08.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a>
 
-<a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2003-FF0000?logo=youtube&logoColor=white" alt="Aula 03" /></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2008-FF0000?logo=youtube&logoColor=white" alt="Aula 08" /></a>
 
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Gabarito-FF0000?logo=youtube&logoColor=white" alt="Gabarito" /></a>
 
-**Nesta aula, você vai aprender a receber informações do usuário, processá-las e apresentar resultados com Python.**
+**Nesta aula, você vai aprender a trabalhar com listas, uma das estruturas mais importantes do Python para guardar coleções de dados.**
 
 ## 📚 Objetivos da aula
 
-- Entender como receber entrada do usuário.
-- Usar a função input() corretamente.
-- Trabalhar com conversão de tipos.
-- Construir programas simples de cálculo e interação.
+- Entender o conceito de listas.
+- Armazenar vários valores em uma única variável.
+- Acessar, adicionar e remover elementos da lista.
+- Usar listas em exercícios práticos.
 
 ## 🧠 O que você vai aprender
 
 ### 1. Conceitos principais
 
-- Entrada de dados via teclado;
-- Uso da função input();
-- Conversão de valores com int(), float() e str();
-- Operação com dados informados pelo usuário;
-- Exercícios de cálculo e processamento.
+- Listas em Python;
+- Indexação e acesso aos itens;
+- Adição e remoção de elementos;
+- Percorrer listas com for;
+- Organização de dados em coleções.
 
 ### 2. Aplicações práticas
 
-- Receber dados do usuário;
-- Transformar texto em número;
-- Realizar operações matemáticas;
-- Mostrar resultados no terminal;
+- Guardar várias informações em uma estrutura única;
+- Acessar itens por posição;
+- Manipular listas com comandos simples;
+- Usar listas como base para projetos maiores;
 
 ## 🧪 Conteúdo do notebook
 
@@ -45,9 +45,9 @@ O notebook desta aula inclui:
 
 A aula propõe atividades para praticar os conceitos estudados, como:
 
-- Criar um programa de cálculo de média;
-- Montar uma calculadora simples;
-- Explorar entradas e saídas com mensagens amigáveis;
+- Organizar uma lista de compras;
+- Listar nomes e notas de alunos;
+- Exibir e remover itens dinamicamente;
 
 ## ▶️ Como usar este material
 
@@ -55,7 +55,7 @@ A aula propõe atividades para praticar os conceitos estudados, como:
 
 1. Acesse o Google Colab.
 2. Faça login com sua conta Google.
-3. Abra o notebook da aula 03.
+3. Abra o notebook da aula 08.
 4. Execute as células em ordem.
 5. Tente resolver os exercícios antes de olhar a solução.
 
@@ -73,7 +73,6 @@ A aula propõe atividades para praticar os conceitos estudados, como:
 - Acesso ao navegador;
 - Conta Google para usar o Colab (opcional);
 - Python instalado para uso local (opcional).
-
 
 ## 🌱 Próxima etapa
 

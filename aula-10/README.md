@@ -1,10 +1,9 @@
 # Aula 10 - Projeto Final
 
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/main/aula-10/aula-10.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-10/aula-10.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a>
 
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2010-FF0000?logo=youtube&logoColor=white" alt="Aula 10" /></a>
 
-<a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
 
 **Chegamos à última aula do curso! Nesta etapa, você vai unir tudo o que aprendeu até aqui para criar um projeto completo: um sistema de gerenciamento de tarefas, com menu interativo, funções e estruturas de repetição.**
 

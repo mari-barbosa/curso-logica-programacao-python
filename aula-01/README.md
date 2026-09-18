@@ -1,10 +1,10 @@
 # Aula 01 - O que é Programação e Seu Primeiro Código
 
-<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/main/aula-01/aula-01.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a>
+<a href="https://colab.research.google.com/github/mari-barbosa/curso-logica-programacao-python/blob/alunos/aula-01/aula-01.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" /></a>
 
 <a href="#"><img src="https://img.shields.io/badge/YouTube-Aula%2001-FF0000?logo=youtube&logoColor=white" alt="Aula 01" /></a>
 
-<a href="#"><img src="https://img.shields.io/badge/YouTube-Exerc%C3%ADcios-FF0000?logo=youtube&logoColor=white" alt="Exercícios" /></a>
+<a href="#"><img src="https://img.shields.io/badge/YouTube-Gabarito-FF0000?logo=youtube&logoColor=white" alt="Gabarito" /></a>
 
 **Bem-vindo à primeira aula do curso de lógica de programação com Python! Nesta aula, você vai entender o conceito de algoritmo, descobrir por que Python é uma excelente linguagem para começar e escrever seu primeiro programa usando a função `print()`**
 
