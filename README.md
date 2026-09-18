@@ -1,9 +1,6 @@
 # Curso de Lógica de Programação com Python
 
-<img src="https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/GitHub-Curso%20Python-181717?logo=github&logoColor=white" alt="GitHub" />
-<a href="https://github.com/mari-barbosa/curso-logica-programacao-python/stargazers"><img src="https://img.shields.io/github/stars/mari-barbosa/curso-logica-programacao-python?style=social" alt="Star this repo" /></a>
+<img src="https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter" /> <img src="https://img.shields.io/badge/GitHub-Curso%20Python-181717?logo=github&logoColor=white" alt="GitHub" /> <a href="https://github.com/mari-barbosa/curso-logica-programacao-python/stargazers"><img src="https://img.shields.io/github/stars/mari-barbosa/curso-logica-programacao-python?style=social" alt="Star this repo" /></a>
 
 
 <u>**Aprenda Python do zero com um caminho prático, direto e gratuito.**</u>

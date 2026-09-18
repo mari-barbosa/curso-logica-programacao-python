@@ -84,6 +84,20 @@ O programa deve permitir:
 3. Execute as células do notebook.
 4. Personalize o programa e teste novas ideias.
 
+### Opção 3: Arquivo final em Python
+
+Na pasta `projeto-final/`, você encontra o script `main.py` com a versão final do projeto em Python.
+
+1. Abra a pasta `aula-10/projeto-final` no seu editor ou terminal.
+2. Certifique-se de que o Python está instalado.
+3. Execute o arquivo com o comando abaixo:
+
+```bash
+python main.py
+```
+
+Esse arquivo pode ser usado como referência final para testar o programa, comparar com o que você desenvolveu no notebook ou até mesmo baixar e estudar em outro computador.
+
 ## ✅ Pré-requisitos
 
 - Conhecimento das aulas anteriores;
